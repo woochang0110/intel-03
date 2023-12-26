@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/openvinotoolkit/openvino/master/samples/python
 
 A command combination that shows number of files under given directory.
 ```bash
-find ./ -maxdepth 2 –type d | while read –r dir; do printf “%s:\t” “$dir”; find “$dir” –type f | wc –l; done
+find ./ -maxdepth 2 -type d | while read -r dir; do printf "%s:\t" "$dir"; find "$dir" -type f | wc -l; done
 ```
 
 ### Links

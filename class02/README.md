@@ -35,7 +35,7 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | ParkJinWuk (ParkJinwuk) | n/a | - | - | - | - | litcoder |
 | kangjaehwan (znsi) | n/a | - | - | - | - | litcoder |
-| KimHyuckKu (KimHyuckku) | n/a | - | - | - | - | mokiya |
+| KimHyuckKu (KimHyuckku) | n/a | - | - | - | - | litcoder |
 | JeongJuHee (juhee67) | n/a | - | - | - | - | litcoder |
 | JinWoosun (abbblin) | n/a | - | - | - | - | litcoder |
 | EumYeaJin (Amaziniverse) | n/a | - | - | - | - | litcoder |
